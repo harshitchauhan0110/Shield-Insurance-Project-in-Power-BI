@@ -11,4 +11,3 @@
 
 **Presentation Video** : [Presentation Video](https://www.linkedin.com/feed/update/urn:li:activity:7189273869822611456/)
 
-![new](https://github.com/user-attachments/assets/1505f2ea-918c-44f0-ac86-4751cfd5eb68)
