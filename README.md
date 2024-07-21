@@ -10,3 +10,5 @@
 **Explore live dashboard here** : [Shield Insurance Project](https://app.powerbi.com/view?r=eyJrIjoiMDMzNGQ4MGItYmEyOS00YzljLWE0YjktMmIyZmY2ZjIxZTU3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 **Presentation Video** : [Presentation Video](https://www.linkedin.com/feed/update/urn:li:activity:7189273869822611456/)
+
+![new](https://github.com/user-attachments/assets/1505f2ea-918c-44f0-ac86-4751cfd5eb68)
